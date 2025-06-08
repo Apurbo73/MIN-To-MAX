@@ -88,3 +88,6 @@ Input:
 
 ---
 
+The code reads multiple test cases where each contains an array of integers. For each array, it finds the minimum value M and then counts how many elements are greater than M. These are the elements that prevent M from being the maximum, so each must be changed in one operation to a value not greater than M.
+
+The final answer for each test case is simply the number of these greater elements. This count is printed as the minimum number of operations needed to make M (the original minimum) the largest value in the array.
