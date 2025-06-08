@@ -1,6 +1,5 @@
 ### MIN To MAX
 
-Sure! Let’s break down what the C++ code is doing, step by step:
 
 ---
 
