@@ -88,4 +88,3 @@ Input:
 
 ---
 
-Let me know if you'd like a [visual diagram](f) or [interactive trace example](f) to better understand how it runs.
